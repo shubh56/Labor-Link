@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64146244942",
+    "project_id": "ipdproject-d762c",
+    "storage_bucket": "ipdproject-d762c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64146244942:android:b8b45b69e828dda64fca1f",
+        "android_client_info": {
+          "package_name": "com.example.laborlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRniVXhlc64AD4U2IPzO-m8IW_fztbYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
