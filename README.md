@@ -11,3 +11,7 @@ operated using voice commands, and it encompasses temporary scheduling. Moreover
 
 ### Video
 
+
+
+https://github.com/shubh56/Labor-Link/assets/57656903/8489952e-cd68-439e-874c-91ad8836fe76
+
